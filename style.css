@@ -20,7 +20,7 @@ blockquote {
 }
 
 h2 {
-    font-color: grey;
+    font: grey;
     font-size: 30px;
     font-family: "Helvetica", sans-serif;
 }
